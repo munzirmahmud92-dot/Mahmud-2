@@ -1,0 +1,6 @@
+{
+  "name": "মনজির ভয়েস ক্রোনার",
+  "description": "Personal AI voice cloning and text-to-speech studio for Android with Bengali and English support, Gemini online TTS, and offline Android TextToSpeech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

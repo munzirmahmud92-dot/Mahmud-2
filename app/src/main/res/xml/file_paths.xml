@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path name="studio_audio" path="audio/" />
+    <files-path name="voice_samples" path="samples/" />
+    <cache-path name="exported_audio" path="exports/" />
+</paths>
